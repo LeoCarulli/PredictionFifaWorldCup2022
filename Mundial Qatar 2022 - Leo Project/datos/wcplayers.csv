@@ -1,0 +1,810 @@
+,Known As,Age,Nationality,Overall,Potential,Value(in Euro),Wage(in Euro),Best Position,National Team Position,Main Position
+0,E. Martínez,29,Argentina,84,84,29000000,95000,GK,GK,Goalkeeper
+1,G. Rulli,30,Argentina,82,82,20500000,34000,GK,-,Goalkeeper
+2,J. Musso,28,Argentina,81,82,20500000,47000,GK,SUB,Goalkeeper
+3,C. Romero,24,Argentina,83,88,49500000,95000,CB,CB,Defender
+4,N. Otamendi,34,Argentina,81,81,8500000,18000,CB,CB,Defender
+5,J. Foyth,24,Argentina,79,84,24500000,29000,CB,-,Defender
+6,M. Senesi,25,Argentina,78,83,18500000,44000,CB,-,Defender
+7,M. Acuña,30,Argentina,85,85,46500000,46000,LB,LB,Defender
+8,N. Tagliafico,29,Argentina,81,81,22500000,72000,LB,SUB,Defender
+9,G. Montiel,25,Argentina,79,81,20000000,28000,RWB,SUB,Defender
+10,N. Molina,24,Argentina,78,84,21000000,39000,RWB,RB,Defender
+11,R. De Paul,28,Argentina,84,84,42000000,85000,CM,CM,Midfielder
+12,L. Martínez,24,Argentina,81,86,35000000,95000,CDM,SUB,Midfielder
+13,G. Rodríguez,27,Argentina,81,82,26500000,30000,CDM,SUB,Midfielder
+14,É. Banega,34,Argentina,81,81,12000000,47000,CM,-,Midfielder
+15,L. Messi,35,Argentina,91,91,54000000,195000,CAM,RW,Midfielder
+16,P. Dybala,28,Argentina,86,86,69500000,130000,CAM,SUB,Midfielder
+17,A. Gómez,34,Argentina,84,84,20000000,47000,CAM,SUB,Midfielder
+18,Á. Di María,34,Argentina,84,84,20000000,160000,RW,LW,Striker
+19,L. Ocampos,27,Argentina,81,81,27500000,39000,RW,-,Striker
+20,N. González,24,Argentina,80,85,32000000,58000,LM,-,Midfielder
+21,J. Correa,27,Argentina,80,80,23000000,75000,RW,SUB,Striker
+22,E. Buendía,25,Argentina,80,82,26500000,84000,CAM,-,Midfielder
+23,L. Martínez,24,Argentina,86,90,98500000,110000,ST,ST,Striker
+24,Á. Correa,27,Argentina,83,84,42500000,80000,CF,SUB,Striker
+25,E. Ávila,28,Argentina,79,79,18000000,38000,ST,-,Striker
+0,W. Szczęsny,32,Poland,86,86,33500000,125000,GK,GK,Goalkeeper
+1,Ł. Fabiański,37,Poland,82,82,3400000,43000,GK,-,Goalkeeper
+2,R. Gikiewicz,34,Poland,77,77,1800000,21000,GK,-,Goalkeeper
+3,J. Bednarek,26,Poland,76,80,9000000,44000,CB,CB,Defender
+4,P. Dawidowicz,27,Poland,75,78,6500000,23000,CB,-,Defender
+5,J. Kiwior,22,Poland,71,78,3500000,9000,CB,SUB,Defender
+6,K. Glik,34,Poland,71,71,600000,3000,CB,CB,Defender
+7,A. Reca,27,Poland,72,72,2300000,12000,LWB,-,Defender
+8,T. Puchacz,23,Poland,69,76,2700000,11000,LWB,-,Defender
+9,M. Cash,24,Poland,79,84,24500000,65000,RWB,RB,Defender
+10,T. Kędziora,28,Poland,74,74,3800000,900,RB,-,Defender
+11,G. Krychowiak,32,Poland,78,78,9500000,34000,CDM,CDM,Midfielder
+12,J. Moder,23,Poland,74,83,9500000,43000,CM,-,Midfielder
+13,M. Klich,32,Poland,74,74,3300000,33000,CM,CDM,Midfielder
+14,K. Linetty,27,Poland,74,75,4800000,35000,CDM,-,Midfielder
+15,P. Zieliński,28,Poland,83,83,36500000,78000,CAM,CAM,Midfielder
+16,S. Żurkowski,24,Poland,76,81,11500000,40000,RM,SUB,Midfielder
+17,P. Frankowski,27,Poland,76,77,8000000,28000,RM,SUB,Midfielder
+18,N. Zalewski,20,Poland,74,86,10000000,34000,RM,SUB,Midfielder
+19,A. Mierzejewski,35,Poland,74,74,1700000,9000,CAM,-,Midfielder
+20,S. Szymański,23,Poland,74,83,9500000,9000,LM,RM,Midfielder
+21,K. Grosicki,34,Poland,73,73,1400000,9000,LM,-,Midfielder
+22,D. Kądzior,30,Poland,72,72,2300000,9000,LM,-,Midfielder
+23,R. Lewandowski,33,Poland,91,91,84000000,420000,ST,ST,Striker
+24,A. Milik,28,Poland,79,79,18000000,50000,ST,SUB,Striker
+25,A. Buksa,25,Poland,75,77,7000000,30000,ST,SUB,Striker
+0,T. Courtois,30,Belgium,90,91,90000000,250000,GK,GK,Goalkeeper
+1,K. Casteels,30,Belgium,84,85,31500000,55000,GK,SUB,Goalkeeper
+2,S. Mignolet,34,Belgium,80,80,3600000,24000,GK,SUB,Goalkeeper
+3,T. Alderweireld,33,Belgium,82,82,14500000,30000,CB,CB,Defender
+4,J. Vertonghen,35,Belgium,81,81,7000000,21000,CB,CB,Defender
+5,W. Faes,24,Belgium,77,82,14500000,56000,CB,-,Defender
+6,J. Denayer,27,Belgium,77,79,0,0,CB,CB,Defender
+7,J. Kayembe,27,Belgium,74,74,4099999,13000,LWB,-,Defender
+8,K. D'Haene,32,Belgium,71,71,1300000,9000,LB,-,Defender
+9,T. Castagne,26,Belgium,78,80,16000000,69000,RWB,RM,Defender
+10,T. Meunier,30,Belgium,78,78,12000000,41000,RB,SUB,Defender
+11,K. De Bruyne,31,Belgium,91,91,107500000,350000,CM,RF,Midfielder
+12,Y. Tielemans,25,Belgium,84,86,52500000,115000,CM,CM,Midfielder
+13,H. Vanaken,29,Belgium,80,80,20500000,34000,CM,SUB,Midfielder
+14,A. Witsel,33,Belgium,79,79,8500000,51000,CDM,CM,Midfielder
+15,Y. Carrasco,28,Belgium,85,85,54500000,90000,LM,LM,Midfielder
+16,E. Hazard,31,Belgium,84,84,35000000,220000,LW,LF,Striker
+17,T. Hazard,29,Belgium,80,80,20500000,54000,LM,SUB,Midfielder
+18,A. Januzaj,27,Belgium,79,79,18500000,34000,RW,-,Striker
+19,L. Trossard,27,Belgium,79,79,18500000,71000,LM,SUB,Midfielder
+20,C. De Ketelaere,21,Belgium,78,88,32000000,49000,CAM,-,Midfielder
+21,A. Saelemaekers,23,Belgium,78,82,20000000,57000,RM,SUB,Midfielder
+22,D. Praet,28,Belgium,78,78,14000000,79000,CAM,SUB,Midfielder
+23,R. Lukaku,29,Belgium,86,86,68000000,200000,ST,ST,Striker
+24,D. Mertens,35,Belgium,84,84,18000000,86000,CF,SUB,Striker
+25,M. Batshuayi,28,Belgium,77,77,11000000,68000,ST,SUB,Striker
+0,H. Lloris,35,France,87,87,9000000,80000,GK,GK,Goalkeeper
+1,M. Maignan,26,France,87,90,80000000,90000,GK,SUB,Goalkeeper
+2,A. Areola,29,France,81,82,20000000,64000,GK,SUB,Goalkeeper
+3,L. Hernández,26,France,84,86,46000000,82000,CB,CB,Defender
+4,R. Varane,29,France,84,85,39000000,155000,CB,CB,Defender
+5,J. Koundé,23,France,84,89,57500000,150000,CB,SUB,Defender
+6,P. Kimpembe,26,France,83,86,42000000,95000,CB,SUB,Defender
+7,T. Hernández,24,France,85,90,76000000,82000,LWB,SUB,Defender
+8,F. Mendy,27,France,83,84,38000000,170000,LB,-,Defender
+9,J. Clauss,29,France,80,80,18500000,45000,RWB,SUB,Defender
+10,F. Guilbert,27,France,78,79,15000000,69000,RWB,-,Defender
+11,A. Tchouaméni,22,France,82,89,61500000,145000,CDM,SUB,Midfielder
+12,C. Tolisso,27,France,81,81,27500000,75000,CM,-,Midfielder
+13,M. Guendouzi,23,France,80,86,33000000,41000,CDM,SUB,Midfielder
+14,B. Kamara,22,France,80,86,31000000,69000,CDM,-,Midfielder
+15,K. Coman,26,France,86,87,80000000,105000,LM,RM,Midfielder
+16,N. Fekir,28,France,85,85,54500000,48000,CAM,-,Midfielder
+17,M. Diaby,22,France,84,88,61500000,70000,RM,-,Midfielder
+18,O. Dembélé,25,France,83,86,48000000,180000,LM,-,Midfielder
+19,T. Lemar,26,France,83,86,47000000,74000,CAM,-,Midfielder
+20,A. Griezmann,31,France,83,83,30500000,185000,CAM,CAM,Midfielder
+21,D. Payet,35,France,82,82,12500000,40000,CAM,-,Midfielder
+22,T. Savanier,30,France,81,81,25000000,33000,CAM,-,Midfielder
+23,K. Mbappé,23,France,91,95,190500000,230000,ST,ST,Striker
+24,W. Ben Yedder,31,France,84,84,35500000,88000,CF,SUB,Striker
+25,O. Giroud,35,France,82,82,13000000,66000,ST,-,Striker
+0,M. Neuer,36,Germany,90,90,13500000,72000,GK,GK,Goalkeeper
+1,M. ter Stegen,30,Germany,88,89,68500000,210000,GK,SUB,Goalkeeper
+2,K. Trapp,31,Germany,86,86,36000000,43000,GK,SUB,Goalkeeper
+3,A. Rüdiger,29,Germany,87,88,73500000,250000,CB,CB,Defender
+4,N. Süle,26,Germany,85,87,59000000,72000,CB,CB,Defender
+5,E. Can,28,Germany,82,82,30500000,63000,CB,-,Defender
+6,M. Ginter,28,Germany,82,83,29000000,40000,CB,-,Defender
+7,R. Gosens,27,Germany,82,82,29500000,59000,LWB,SUB,Defender
+8,D. Raum,24,Germany,81,85,34500000,49000,LWB,LB,Defender
+9,L. Klostermann,26,Germany,80,82,23000000,53000,RB,SUB,Defender
+10,B. Henrichs,25,Germany,77,80,13000000,41000,RWB,-,Defender
+11,J. Kimmich,27,Germany,89,90,105500000,130000,CDM,CDM,Midfielder
+12,L. Goretzka,27,Germany,87,88,91000000,115000,CM,SUB,Midfielder
+13,İ. Gündoğan,31,Germany,85,85,44000000,185000,CM,CDM,Midfielder
+14,K. Demirbay,28,Germany,81,81,25500000,65000,CM,-,Midfielder
+15,T. Müller,32,Germany,87,87,63000000,115000,CAM,CAM,Midfielder
+16,S. Gnabry,26,Germany,85,85,59000000,100000,RM,SUB,Midfielder
+17,L. Sané,26,Germany,84,85,49500000,90000,LM,LM,Midfielder
+18,K. Havertz,23,Germany,84,91,84500000,130000,CAM,SUB,Midfielder
+19,J. Brandt,26,Germany,82,85,40000000,60000,CAM,SUB,Midfielder
+20,F. Wirtz,19,Germany,82,91,66000000,38000,CAM,-,Midfielder
+21,J. Musiala,19,Germany,81,90,55500000,39000,CAM,SUB,Midfielder
+22,M. Götze,30,Germany,81,81,25000000,38000,CAM,-,Midfielder
+23,T. Werner,26,Germany,82,84,38000000,73000,ST,ST,Striker
+24,L. Nmecha,23,Germany,78,83,21500000,44000,ST,SUB,Striker
+25,D. Undav,25,Germany,77,80,14000000,63000,ST,-,Striker
+0,Rui Patrício,34,Portugal,82,82,5000000,59000,GK,GK,Goalkeeper
+1,A. Lopes,31,Portugal,82,82,16000000,60000,GK,SUB,Goalkeeper
+2,José Sá,29,Portugal,81,82,20000000,74000,GK,-,Goalkeeper
+3,Rúben Dias,25,Portugal,88,91,107500000,230000,CB,CB,Defender
+4,Palhinha,26,Portugal,81,83,28500000,66000,CB,SUB,Defender
+5,Pepe,39,Portugal,81,81,4600000,12000,CB,CB,Defender
+6,José Fonte,38,Portugal,80,80,3800000,26000,CB,SUB,Defender
+7,João Cancelo,28,Portugal,88,88,82500000,250000,LB,RB,Defender
+8,Nuno Mendes,20,Portugal,80,88,44000000,54000,LB,SUB,Defender
+9,Ricardo Pereira,28,Portugal,83,83,33000000,105000,RB,-,Defender
+10,Nélson Semedo,28,Portugal,80,80,19000000,84000,RWB,-,Defender
+11,Rúben Neves,25,Portugal,83,86,47500000,105000,CM,CDM,Midfielder
+12,João Moutinho,35,Portugal,81,81,10500000,70000,CM,SUB,Midfielder
+13,Danilo Pereira,30,Portugal,80,80,17500000,76000,CDM,SUB,Midfielder
+14,William Carvalho,30,Portugal,80,80,17500000,28000,CDM,-,Midfielder
+15,Bernardo Silva,27,Portugal,88,88,97500000,260000,CAM,CM,Midfielder
+16,Bruno Fernandes,27,Portugal,86,86,72500000,190000,CAM,CM,Midfielder
+17,Rafael Leão,23,Portugal,84,90,66500000,90000,LW,SUB,Striker
+18,João Félix,22,Portugal,84,90,68500000,78000,CAM,SUB,Midfielder
+19,Rafa,29,Portugal,82,82,30000000,24000,RW,-,Striker
+20,Otávio,27,Portugal,82,82,32500000,21000,RM,RW,Midfielder
+21,R. Guerreiro,28,Portugal,82,82,27500000,57000,CAM,LB,Midfielder
+22,Pedro Gonçalves,24,Portugal,81,86,39000000,19000,CAM,-,Midfielder
+23,Cristiano Ronaldo,37,Portugal,90,90,41000000,220000,ST,ST,Striker
+24,Gonçalo Guedes,25,Portugal,82,85,41000000,105000,ST,SUB,Striker
+25,André Silva,26,Portugal,82,84,38000000,73000,ST,SUB,Striker
+0,J. Cillessen,33,Netherlands,80,80,7000000,13000,GK,-,Goalkeeper
+1,M. Flekken,29,Netherlands,80,81,16000000,28000,GK,SUB,Goalkeeper
+2,J. Bijlow,24,Netherlands,79,85,22500000,9000,GK,GK,Goalkeeper
+3,V. van Dijk,30,Netherlands,90,90,98000000,230000,CB,CB,Defender
+4,M. de Ligt,22,Netherlands,85,89,71000000,77000,CB,CB,Defender
+5,S. de Vrij,30,Netherlands,84,84,34500000,88000,CB,SUB,Defender
+6,S. Botman,22,Netherlands,80,86,31000000,74000,CB,-,Defender
+7,T. Malacia,22,Netherlands,79,85,26500000,86000,LWB,SUB,Defender
+8,O. Wijndal,22,Netherlands,79,83,24000000,16000,LWB,-,Defender
+9,D. Dumfries,26,Netherlands,82,84,34500000,73000,RWB,RWB,Defender
+10,H. Hateboer,28,Netherlands,80,80,19000000,53000,RWB,-,Defender
+11,F. de Jong,25,Netherlands,87,92,116500000,230000,CM,CDM,Midfielder
+12,T. Koopmeiners,24,Netherlands,80,84,30000000,49000,CM,SUB,Midfielder
+13,G. Wijnaldum,31,Netherlands,80,80,17500000,83000,CM,SUB,Midfielder
+14,D. Blind,32,Netherlands,80,80,13500000,20000,CDM,LWB,Midfielder
+15,C. Gakpo,23,Netherlands,83,87,52000000,29000,RM,SUB,Midfielder
+16,A. Danjuma,25,Netherlands,82,83,36500000,43000,LM,-,Midfielder
+17,S. Berghuis,30,Netherlands,82,82,29500000,25000,CAM,CM,Midfielder
+18,J. Frimpong,21,Netherlands,80,86,31500000,38000,RM,-,Midfielder
+19,S. Bergwijn,24,Netherlands,80,85,32000000,21000,CAM,ST,Midfielder
+20,R. Gravenberch,20,Netherlands,79,89,38500000,45000,CAM,SUB,Midfielder
+21,D. van de Beek,25,Netherlands,79,84,25500000,105000,CAM,-,Midfielder
+22,D. Klaassen,29,Netherlands,79,79,17000000,21000,CAM,CM,Midfielder
+23,M. Depay,28,Netherlands,85,85,55000000,230000,CF,ST,Striker
+24,W. Weghorst,29,Netherlands,79,79,17500000,59000,ST,SUB,Striker
+25,D. Malen,23,Netherlands,79,85,28000000,47000,ST,SUB,Striker
+0,A. Ramsdale,24,England,82,86,34500000,62000,GK,SUB,Goalkeeper
+1,J. Pickford,28,England,82,84,26000000,45000,GK,GK,Goalkeeper
+2,N. Pope,30,England,81,81,17000000,75000,GK,SUB,Goalkeeper
+3,F. Tomori,24,England,84,90,60500000,75000,CB,-,Defender
+4,J. Stones,28,England,83,84,34500000,150000,CB,CB,Defender
+5,H. Maguire,29,England,81,82,24000000,120000,CB,CB,Defender
+6,C. Smalling,32,England,81,81,16500000,68000,CB,-,Defender
+7,B. Chilwell,25,England,82,85,37000000,110000,LWB,LB,Defender
+8,L. Shaw,26,England,80,81,22500000,105000,LB,-,Defender
+9,K. Walker,32,England,85,85,37500000,170000,RB,RB,Defender
+10,K. Trippier,31,England,84,84,30500000,120000,RB,SUB,Defender
+11,T. Alexander-Arnold,23,England,87,90,100500000,150000,CM,-,Midfielder
+12,J. Bellingham,19,England,84,91,81500000,41000,CM,SUB,Midfielder
+13,D. Rice,23,England,84,87,52000000,83000,CDM,CM,Midfielder
+14,R. Kent,40,England,83,83,0,45000,CDM,-,Midfielder
+15,R. Sterling,27,England,86,86,72500000,195000,LW,LW,Striker
+16,P. Foden,22,England,85,92,109500000,180000,CAM,RW,Midfielder
+17,J. Grealish,26,England,84,84,46000000,185000,LW,SUB,Striker
+18,J. Tartt,24,England,84,91,85500000,78000,CAM,-,Midfielder
+19,M. Mount,23,England,84,87,57500000,130000,CAM,CAM,Midfielder
+20,J. Sancho,22,England,84,88,61500000,155000,CAM,SUB,Midfielder
+21,J. Maddison,25,England,82,84,38000000,100000,CAM,-,Midfielder
+22,B. Saka,20,England,82,89,60500000,76000,LM,SUB,Midfielder
+23,H. Kane,28,England,89,89,105500000,240000,ST,ST,Striker
+24,J. Vardy,35,England,85,85,23000000,110000,ST,-,Striker
+25,T. Abraham,24,England,82,85,42000000,77000,ST,SUB,Striker
+0,Ederson,28,Brazil,89,91,88000000,210000,GK,-,Goalkeeper
+1,Alisson,29,Brazil,89,90,79000000,190000,GK,-,Goalkeeper
+2,Lucas Mantela,22,Brazil,82,82,27000000,33000,GK,GK,Goalkeeper
+3,Marquinhos,28,Brazil,88,90,92000000,170000,CB,-,Defender
+4,Thiago Silva,37,Brazil,86,86,12000000,115000,CB,-,Defender
+5,Éder Militão,24,Brazil,84,89,57500000,160000,CB,-,Defender
+6,Diego Carlos,29,Brazil,83,83,30500000,105000,CB,-,Defender
+7,Welington Dano,22,Brazil,81,81,27500000,37000,LB,LM,Defender
+8,Adryan Zonta,30,Brazil,81,81,22000000,23000,LWB,LB,Defender
+9,Maikel Catarino,26,Brazil,80,80,21000000,34000,RB,RB,Defender
+10,Danilo,30,Brazil,80,80,18000000,95000,RB,-,Defender
+11,Casemiro,30,Brazil,89,89,86000000,240000,CDM,-,Midfielder
+12,Fabinho,28,Brazil,87,88,77000000,185000,CDM,-,Midfielder
+13,Bruno Guimarães,24,Brazil,81,86,38500000,88000,CM,-,Midfielder
+14,Rosival Dourado,22,Brazil,81,81,27000000,31000,CDM,CDM,Midfielder
+15,Neymar Jr,30,Brazil,89,89,99500000,200000,LW,-,Striker
+16,Vinícius Jr.,21,Brazil,86,92,109000000,200000,LW,-,Striker
+17,Ronaldo Cabrais,30,Brazil,83,83,35000000,59000,RM,RM,Midfielder
+18,Raphinha,25,Brazil,83,86,48000000,180000,LM,-,Midfielder
+19,Antony,22,Brazil,82,88,49000000,130000,LM,-,Midfielder
+20,Lucas Paquetá,24,Brazil,82,87,46000000,77000,CAM,-,Midfielder
+21,Coutinho,30,Brazil,82,82,29500000,100000,CAM,-,Midfielder
+22,Matheus Cunha,23,Brazil,81,86,39500000,60000,CAM,-,Midfielder
+23,Gabriel Jesus,25,Brazil,83,86,48500000,115000,ST,-,Striker
+24,Anderson Talisca,28,Brazil,82,82,31000000,64000,CF,-,Striker
+25,Oswaldinato,30,Brazil,81,81,25500000,54000,ST,ST,Striker
+0,Jo Hyeon Woo,30,Korea Republic,73,73,2000000,8000,GK,-,Goalkeeper
+1,Kim Dong Joon,27,Korea Republic,70,70,1200000,4000,GK,-,Goalkeeper
+2,Song Bum Keun,24,Korea Republic,70,78,3100000,4000,GK,-,Goalkeeper
+3,Kim Min Jae,25,Korea Republic,79,84,23000000,49000,CB,-,Defender
+4,Hong Jeong Ho,32,Korea Republic,74,74,2700000,10000,CB,-,Defender
+5,Jeong Seung Hyun,28,Korea Republic,72,74,2400000,9000,CB,-,Defender
+6,Kim Young Gwon,32,Korea Republic,71,71,1200000,7000,CB,-,Defender
+7,Kang Sang Woo,28,Korea Republic,71,71,1700000,12000,LB,-,Defender
+8,Kim Jin Su,30,Korea Republic,71,71,1600000,21000,LB,-,Defender
+9,Kim Tae Hwan,32,Korea Republic,72,72,1600000,8000,RB,-,Defender
+10,Kim Moon Hwan,26,Korea Republic,68,69,1300000,5000,RB,-,Defender
+11,Ki Sung Yueng,33,Korea Republic,74,74,2100000,8000,CM,-,Midfielder
+12,Son Jun Ho,30,Korea Republic,73,73,2500000,16000,CDM,-,Midfielder
+13,Lee Chang Min,28,Korea Republic,72,72,2300000,7000,CM,-,Midfielder
+14,Sin Jin Ho,33,Korea Republic,72,72,1200000,6000,CM,-,Midfielder
+15,H. Son,29,Korea Republic,89,89,101000000,240000,LW,-,Striker
+16,Hwang Hee Chan,26,Korea Republic,77,78,12500000,77000,LW,-,Striker
+17,Lee Jae Sung,29,Korea Republic,76,76,7500000,28000,CAM,-,Midfielder
+18,Lee Kang In,21,Korea Republic,73,81,7000000,15000,CAM,-,Midfielder
+19,Um Won Sang,23,Korea Republic,72,80,5000000,9000,RW,-,Striker
+20,Jeong Woo Yeong,22,Korea Republic,72,77,3600000,18000,RM,-,Midfielder
+21,Lee Dong Jun,25,Korea Republic,70,73,2100000,15000,LM,-,Midfielder
+22,Na Sang Ho,25,Korea Republic,70,70,1800000,6000,LW,-,Striker
+23,Joo Min Kyu,32,Korea Republic,73,73,2500000,8000,ST,-,Striker
+24,Cho Gue Sung,24,Korea Republic,70,77,3200000,7000,ST,-,Striker
+25,Cho Young Wook,23,Korea Republic,68,77,2700000,4000,ST,-,Striker
+0,K. Navas,35,Costa Rica,88,88,10000000,85000,GK,-,Goalkeeper
+1,P. Sequeira,23,Costa Rica,62,69,675000,1000,GK,-,Goalkeeper
+2,F. Calvo,29,Costa Rica,69,69,1200000,8000,CB,-,Defender
+3,J. Cascante,28,Costa Rica,67,69,1000000,3000,CB,-,Defender
+4,F. Faerron,21,Costa Rica,59,70,475000,550,CB,-,Defender
+5,R. Matarrita,27,Costa Rica,71,71,1800000,5000,LB,-,Defender
+6,J. Mora,29,Costa Rica,68,68,1100000,4000,LB,-,Defender
+7,C. Gamboa,32,Costa Rica,74,74,2900000,20000,RB,-,Defender
+8,R. Leal,25,Costa Rica,71,74,2500000,6000,RM,-,Midfielder
+9,E. Aguilar,30,Costa Rica,71,71,1800000,5000,CAM,-,Midfielder
+10,J. Bennette,18,Costa Rica,68,80,2800000,3000,LM,-,Midfielder
+11,L. Díaz,23,Costa Rica,67,72,1500000,3000,RM,-,Midfielder
+12,D. Campos,26,Costa Rica,65,66,850000,1000,RM,-,Midfielder
+13,M. Loría,25,Costa Rica,65,68,950000,2000,CAM,-,Midfielder
+14,A. Lassiter,27,Costa Rica,64,64,625000,2000,LM,-,Midfielder
+15,A. Cruz,26,Costa Rica,63,66,625000,2000,RM,-,Midfielder
+16,F. Brown Forbes,30,Costa Rica,70,70,1600000,8000,ST,-,Striker
+17,M. Ugalde,20,Costa Rica,66,77,1900000,3000,ST,-,Striker
+18,M. George,28,Costa Rica,63,63,500000,1000,ST,-,Striker
+0,D. Livaković,27,Croatia,80,83,20500000,1000,GK,GK,Goalkeeper
+1,I. Grbić,26,Croatia,74,78,4500000,29000,GK,SUB,Goalkeeper
+2,I. Pandur,22,Croatia,72,79,4099999,12000,GK,-,Goalkeeper
+3,J. Gvardiol,20,Croatia,81,89,53000000,41000,CB,CB,Defender
+4,D. Ćaleta-Car,25,Croatia,78,82,17500000,48000,CB,-,Defender
+5,D. Lovren,32,Croatia,78,78,0,0,CB,CB,Defender
+6,D. Vida,33,Croatia,76,76,3600000,1000,CB,SUB,Defender
+7,B. Sosa,24,Croatia,78,83,20000000,22000,LWB,LB,Defender
+8,D. Bradarić,22,Croatia,73,79,4600000,17000,LWB,-,Defender
+9,J. Juranović,26,Croatia,75,76,6000000,42000,RB,RB,Defender
+10,J. Juranović,26,Croatia,75,76,6000000,42000,RB,RB,Defender
+11,L. Modrić,36,Croatia,88,88,29000000,230000,CM,CM,Midfielder
+12,M. Brozović,29,Croatia,86,86,58000000,110000,CDM,CDM,Midfielder
+13,M. Kovačić,28,Croatia,84,84,42000000,155000,CM,CM,Midfielder
+14,I. Rakitić,34,Croatia,82,82,14000000,39000,CM,-,Midfielder
+15,I. Perišić,33,Croatia,84,84,26500000,130000,LM,LM,Midfielder
+16,M. Pašalić,27,Croatia,81,81,27500000,60000,CAM,RM,Midfielder
+17,L. Majer,24,Croatia,80,85,31500000,47000,CAM,SUB,Midfielder
+18,J. Brekalo,24,Croatia,79,85,28000000,48000,CAM,-,Midfielder
+19,N. Vlašić,24,Croatia,78,83,21000000,57000,CAM,SUB,Midfielder
+20,M. Oršić,29,Croatia,77,77,10500000,1000,LW,SUB,Striker
+21,M. Pjaca,27,Croatia,75,76,6500000,81000,CAM,-,Midfielder
+22,L. Ivanušec,23,Croatia,75,82,11500000,900,CAM,-,Midfielder
+23,A. Kramarić,31,Croatia,82,82,25500000,54000,CF,ST,Striker
+24,A. Rebić,28,Croatia,80,80,21000000,78000,ST,-,Striker
+25,M. Livaja,28,Croatia,77,77,11000000,1000,ST,SUB,Striker
+0,Unai Simón,25,Spain,83,86,37000000,30000,GK,GK,Goalkeeper
+1,David Soria,29,Spain,82,82,21000000,32000,GK,-,Goalkeeper
+2,Álex Remiro,27,Spain,82,84,28000000,34000,GK,-,Goalkeeper
+3,A. Laporte,28,Spain,86,87,64500000,195000,CB,CB,Defender
+4,Pau Torres,25,Spain,83,89,50500000,43000,CB,SUB,Defender
+5,Aritz Elustondo,28,Spain,82,83,29000000,43000,CB,-,Defender
+6,Iñigo Martínez,31,Spain,82,82,21000000,35000,CB,-,Defender
+7,Jordi Alba,33,Spain,85,85,28000000,190000,LB,LB,Defender
+8,Gayà,27,Spain,82,83,32000000,44000,LB,SUB,Defender
+9,Carvajal,30,Spain,84,84,36500000,185000,RB,RB,Defender
+10,Jesús Navas,36,Spain,83,83,8000000,28000,RB,-,Defender
+11,Rodri,26,Spain,87,89,88500000,200000,CDM,SUB,Midfielder
+12,Sergio Busquets,33,Spain,85,85,26500000,190000,CDM,CDM,Midfielder
+13,Pedri,19,Spain,85,93,116000000,115000,CM,CM,Midfielder
+14,Merino,26,Spain,83,86,47000000,49000,CM,-,Midfielder
+15,Marcos Llorente,27,Spain,84,85,48000000,81000,CAM,SUB,Midfielder
+16,Angeliño,25,Spain,83,85,42000000,64000,LM,-,Midfielder
+17,Marco Asensio,26,Spain,83,84,43000000,200000,RW,-,Striker
+18,David Silva,36,Spain,83,83,12000000,37000,CAM,-,Midfielder
+19,Dani Olmo,24,Spain,82,87,46000000,59000,CAM,SUB,Midfielder
+20,Ferran Torres,22,Spain,82,88,49000000,150000,LW,RW,Striker
+21,Isco,30,Spain,82,82,29500000,39000,CAM,-,Midfielder
+22,Pablo Sarabia,30,Spain,81,81,25000000,95000,RW,SUB,Striker
+23,Borja Iglesias,29,Spain,81,81,25500000,36000,ST,-,Striker
+24,Morata,29,Spain,80,80,21000000,66000,ST,ST,Striker
+25,Joselu,32,Spain,80,80,17000000,27000,ST,-,Striker
+0,É. Mendy,30,Senegal,86,87,51000000,130000,GK,-,Goalkeeper
+1,A. Gomis,28,Senegal,77,79,9000000,34000,GK,-,Goalkeeper
+2,S. Dieng,27,Senegal,72,75,2300000,18000,GK,-,Goalkeeper
+3,K. Koulibaly,31,Senegal,87,87,54500000,175000,CB,-,Defender
+4,A. Diallo,26,Senegal,77,79,11500000,61000,CB,-,Defender
+5,M. Loum,25,Senegal,73,78,4099999,10000,CB,-,Defender
+6,P. Djilobodji,33,Senegal,73,73,1500000,14000,CB,-,Defender
+7,F. Ballo-Touré,25,Senegal,72,76,3000000,32000,LWB,-,Defender
+8,A. Ndour,28,Senegal,69,69,1300000,4000,LB,-,Defender
+9,Y. Sabaly,29,Senegal,76,76,6500000,22000,RB,-,Defender
+10,P. Sagna,31,Senegal,70,70,1200000,4000,RB,-,Defender
+11,I. Gueye,32,Senegal,82,82,20500000,53000,CDM,-,Midfielder
+12,C. Kouyaté,32,Senegal,77,77,7000000,53000,CDM,-,Midfielder
+13,P. Gueye,23,Senegal,76,82,11000000,27000,CDM,-,Midfielder
+14,N. Mendy,30,Senegal,74,74,3500000,53000,CDM,-,Midfielder
+15,I. Sarr,24,Senegal,77,83,16500000,39000,RM,-,Midfielder
+16,K. Diatta,23,Senegal,74,81,8500000,34000,RM,-,Midfielder
+17,A. Ndiaye,25,Senegal,73,74,3600000,20000,LM,-,Midfielder
+18,B. Sarr,30,Senegal,73,73,2600000,36000,RM,-,Midfielder
+19,A. Ndao,25,Senegal,72,75,3100000,18000,RM,-,Midfielder
+20,L. Gueye,24,Senegal,71,75,2700000,5000,RM,-,Midfielder
+21,S. Thioub,27,Senegal,71,71,2000000,15000,RM,-,Midfielder
+22,I. Ndiaye,22,Senegal,70,80,3600000,14000,CAM,-,Midfielder
+23,B. Dia,25,Senegal,79,83,24500000,39000,ST,-,Striker
+24,H. Diallo,27,Senegal,77,78,12500000,30000,ST,-,Striker
+25,M. Diagne,30,Senegal,74,74,4099999,24000,ST,-,Striker
+0,M. Dmitrović,30,Serbia,80,81,16000000,25000,GK,-,Goalkeeper
+1,P. Rajković,26,Serbia,78,81,14000000,21000,GK,-,Goalkeeper
+2,V. Milinković-Savić,25,Serbia,73,77,3300000,22000,GK,-,Goalkeeper
+3,N. Milenković,24,Serbia,80,85,29000000,48000,CB,-,Defender
+4,S. Mitrović,32,Serbia,74,74,2700000,21000,CB,-,Defender
+5,M. Nastasić,29,Serbia,74,74,3500000,21000,CB,-,Defender
+6,I. Radovanović,33,Serbia,73,73,1500000,20000,CB,-,Defender
+7,M. Ristić,26,Serbia,74,77,5000000,11000,LB,-,Defender
+8,F. Mladenović,30,Serbia,69,69,1200000,5000,LB,-,Defender
+9,N. Boranijašević,30,Serbia,69,69,1200000,8000,RWB,-,Defender
+10,P. Golubović,27,Serbia,65,65,700000,1000,RWB,-,Defender
+11,S. Milinković-Savić,27,Serbia,86,87,77500000,90000,CM,-,Midfielder
+12,N. Maksimović,27,Serbia,79,80,20000000,33000,CM,-,Midfielder
+13,N. Gudelj,30,Serbia,79,79,14500000,29000,CDM,-,Midfielder
+14,N. Matić,33,Serbia,79,79,8500000,60000,CDM,-,Midfielder
+15,F. Kostić,29,Serbia,85,85,53000000,165000,LM,-,Midfielder
+16,D. Tadić,33,Serbia,84,84,26500000,32000,LW,-,Striker
+17,D. Lazović,31,Serbia,77,77,8500000,28000,LM,-,Midfielder
+18,A. Živković,25,Serbia,77,78,12500000,2000,RW,-,Striker
+19,I. Ilić,21,Serbia,76,86,17000000,20000,CAM,-,Midfielder
+20,N. Radonjić,26,Serbia,74,75,5000000,34000,LW,-,Striker
+21,D. Aleksić,31,Serbia,73,73,2500000,28000,CAM,-,Midfielder
+22,M. Gaćinović,27,Serbia,73,74,3500000,1000,CAM,-,Midfielder
+23,D. Vlahović,22,Serbia,84,91,86500000,140000,ST,-,Striker
+24,L. Jović,24,Serbia,79,84,27000000,55000,ST,-,Striker
+25,A. Mitrović,27,Serbia,78,78,15000000,63000,ST,-,Striker
+0,Y. Sommer,33,Switzerland,85,85,17500000,40000,GK,-,Goalkeeper
+1,G. Kobel,24,Switzerland,83,88,44000000,40000,GK,-,Goalkeeper
+2,J. Omlin,28,Switzerland,79,81,15000000,23000,GK,-,Goalkeeper
+3,M. Akanji,26,Switzerland,81,82,26500000,120000,CB,-,Defender
+4,N. Elvedi,25,Switzerland,77,81,13000000,25000,CB,-,Defender
+5,F. Schär,30,Switzerland,77,77,8500000,69000,CB,-,Defender
+6,F. Lustenberger,34,Switzerland,72,72,750000,15000,CB,-,Defender
+7,U. Garcia,26,Switzerland,72,74,2700000,15000,LWB,-,Defender
+8,L. Benito,30,Switzerland,70,70,1400000,12000,LB,-,Defender
+9,S. Widmer,29,Switzerland,77,77,9500000,27000,RWB,-,Defender
+10,K. Mbabu,27,Switzerland,77,77,10000000,50000,RB,-,Defender
+11,D. Zakaria,25,Switzerland,81,86,34500000,95000,CDM,-,Midfielder
+12,D. Sow,25,Switzerland,80,82,26500000,34000,CM,-,Midfielder
+13,R. Freuler,30,Switzerland,80,80,20000000,72000,CM,-,Midfielder
+14,G. Xhaka,29,Switzerland,79,79,15000000,80000,CDM,-,Midfielder
+15,C. Fassnacht,28,Switzerland,76,76,7500000,24000,RM,-,Midfielder
+16,X. Shaqiri,30,Switzerland,76,76,7000000,9000,CAM,-,Midfielder
+17,R. Steffen,30,Switzerland,76,76,7000000,13000,LM,-,Midfielder
+18,N. Okafor,22,Switzerland,75,83,12500000,25000,RM,-,Midfielder
+19,R. Vargas,23,Switzerland,75,81,9000000,22000,LM,-,Midfielder
+20,S. Zuber,30,Switzerland,75,75,5500000,1000,LW,-,Striker
+21,R. Vargas,23,Switzerland,75,81,9000000,22000,LM,-,Midfielder
+22,F. Ugrinic,23,Switzerland,74,82,9500000,18000,CAM,-,Midfielder
+23,B. Embolo,25,Switzerland,77,80,14000000,49000,ST,-,Striker
+24,H. Seferović,30,Switzerland,76,76,7500000,15000,ST,-,Striker
+25,M. Gavranović,32,Switzerland,73,73,2500000,17000,ST,-,Striker
+0,F. Muslera,36,Uruguay,79,79,1900000,34000,GK,-,Goalkeeper
+1,S. Rochet,29,Uruguay,78,80,11500000,850,GK,-,Goalkeeper
+2,L. Burián,38,Uruguay,75,75,625000,7000,GK,-,Goalkeeper
+3,R. Araujo,23,Uruguay,83,89,52000000,135000,CB,-,Defender
+4,J. Giménez,27,Uruguay,83,85,38500000,68000,CB,-,Defender
+5,S. Coates,31,Uruguay,82,82,21000000,19000,CB,-,Defender
+6,D. Godín,36,Uruguay,77,77,1900000,11000,CB,-,Defender
+7,A. Espino,30,Uruguay,78,78,12000000,30000,LB,-,Defender
+8,M. Olivera,24,Uruguay,77,83,15500000,37000,LB,-,Defender
+9,D. Suárez,34,Uruguay,77,77,3900000,26000,RB,-,Defender
+10,C. Mayada,31,Uruguay,73,73,2200000,800,RB,-,Defender
+11,F. Valverde,23,Uruguay,84,90,66000000,175000,CM,-,Midfielder
+12,L. Torreira,26,Uruguay,81,83,28500000,73000,CDM,-,Midfielder
+13,M. Arambarri,26,Uruguay,80,85,28000000,32000,CDM,-,Midfielder
+14,R. Bentancur,25,Uruguay,79,83,24500000,85000,CDM,-,Midfielder
+15,N. Lodeiro,33,Uruguay,79,79,11000000,12000,CAM,-,Midfielder
+16,N. De la Cruz,25,Uruguay,78,79,16500000,19000,CAM,-,Midfielder
+17,A. Silva,32,Uruguay,76,76,6000000,1000,RM,-,Midfielder
+18,D. Rossi,24,Uruguay,76,80,11000000,49000,CAM,-,Midfielder
+19,M. Pereyra,32,Uruguay,74,74,3300000,8000,CAM,-,Midfielder
+20,M. Saracchi,24,Uruguay,74,79,6000000,9000,LM,-,Midfielder
+21,B. Ocampo,23,Uruguay,74,83,9500000,22000,RM,-,Midfielder
+22,R. Zalazar,22,Uruguay,73,80,6000000,17000,CAM,-,Midfielder
+23,L. Suárez,35,Uruguay,84,84,18000000,1000,ST,-,Striker
+24,D. Núñez,23,Uruguay,82,89,61500000,120000,ST,-,Striker
+25,E. Cavani,35,Uruguay,81,81,11000000,37000,ST,-,Striker
+0,R. Ofori,28,Ghana,74,77,3900000,750,GK,SUB,Goalkeeper
+1,L. Zigi,25,Ghana,70,76,2000000,5000,GK,GK,Goalkeeper
+2,I. Danlad,19,Ghana,68,79,0,0,GK,SUB,Goalkeeper
+3,J. Aidoo,26,Ghana,78,81,16500000,24000,CB,-,Defender
+4,A. Djiku,27,Ghana,77,79,11000000,25000,CB,CB,Defender
+5,M. Salisu,23,Ghana,77,85,22000000,41000,CB,-,Defender
+6,D. Amartey,27,Ghana,76,77,7500000,60000,CB,CB,Defender
+7,G. Mensah,23,Ghana,70,76,2400000,9000,LWB,SUB,Defender
+8,B. Rahman,27,Ghana,70,70,1500000,41000,LWB,LB,Defender
+9,T. Lamptey,21,Ghana,75,83,12000000,35000,RWB,-,Defender
+10,T. Lamptey,21,Ghana,75,83,12000000,35000,RWB,-,Defender
+11,T. Partey,29,Ghana,84,84,36000000,115000,CDM,CDM,Midfielder
+12,I. Baba,26,Ghana,75,80,7500000,22000,CDM,SUB,Midfielder
+13,A. Duncan,29,Ghana,75,75,5500000,46000,CDM,-,Midfielder
+14,M. Wakaso,31,Ghana,72,72,1900000,10000,CDM,-,Midfielder
+15,F. Acheampong,28,Ghana,76,76,7500000,15000,LM,-,Midfielder
+16,J. Schlupp,29,Ghana,76,76,7500000,51000,LM,-,Midfielder
+17,M. Kudus,21,Ghana,76,84,17000000,12000,CAM,CAM,Midfielder
+18,D. Kyereh,26,Ghana,75,78,7500000,26000,CAM,SUB,Midfielder
+19,K. Sulemana,20,Ghana,75,85,12500000,32000,RM,LM,Midfielder
+20,D. Kyereh,26,Ghana,75,78,7500000,26000,CAM,SUB,Midfielder
+21,J. Ayew,30,Ghana,75,75,5500000,50000,RW,RM,Striker
+22,K. Boateng,35,Ghana,74,74,1700000,19000,CAM,-,Midfielder
+23,Iñaki Williams,28,Ghana,81,81,26500000,40000,ST,-,Striker
+24,E. Boateng,26,Ghana,76,79,10000000,12000,ST,-,Striker
+25,A. Ayew,32,Ghana,75,75,0,0,CF,ST,Striker
+0,Y. Bounou,31,Morocco,84,84,22500000,34000,GK,GK,Goalkeeper
+1,Munir,33,Morocco,73,73,1000000,15000,GK,SUB,Goalkeeper
+2,A. Tagnaouti,26,Morocco,71,75,0,0,GK,SUB,Goalkeeper
+3,N. Aguerd,26,Morocco,80,83,24500000,70000,CB,CB,Defender
+4,Z. Feddal,32,Morocco,77,77,7000000,22000,CB,-,Defender
+5,R. Saïss,32,Morocco,77,77,7000000,44000,CB,CB,Defender
+6,Y. Abdelhamid,34,Morocco,76,76,2400000,21000,CB,-,Defender
+7,A. Masina,28,Morocco,74,74,3800000,15000,LWB,LB,Defender
+8,Y. Attiat-Allah,27,Morocco,70,71,0,0,LB,SUB,Defender
+9,A. Hakimi,23,Morocco,84,87,53500000,90000,RB,RB,Defender
+10,F. Moufi,26,Morocco,73,76,3700000,7000,RB,-,Defender
+11,S. Amrabat,25,Morocco,76,79,9000000,40000,CM,CDM,Midfielder
+12,I. Louza,23,Morocco,74,79,6500000,32000,CM,-,Midfielder
+13,Y. Maleh,23,Morocco,74,80,6500000,35000,CM,-,Midfielder
+14,A. Jahouh,33,Morocco,70,70,800000,2000,CDM,-,Midfielder
+15,H. Ziyech,29,Morocco,83,83,35500000,155000,RW,RW,Striker
+16,N. Mazraoui,24,Morocco,82,86,40500000,59000,RM,SUB,Midfielder
+17,Munir,26,Morocco,79,79,19000000,33000,LM,SUB,Midfielder
+18,S. Boufal,28,Morocco,77,77,11000000,28000,CAM,LW,Midfielder
+19,O. Idrissi,26,Morocco,76,77,9000000,13000,LW,-,Striker
+20,S. Rahimi,26,Morocco,75,76,6500000,1000,LM,SUB,Midfielder
+21,S. Rahimi,26,Morocco,75,76,6500000,1000,LM,SUB,Midfielder
+22,O. Tannane,28,Morocco,74,74,4200000,12000,CAM,-,Midfielder
+23,Y. En-Nesyri,25,Morocco,80,85,31500000,35000,ST,ST,Striker
+24,T. Tissoudali,29,Morocco,76,76,7500000,25000,CF,-,Striker
+25,A. Hamdallah,31,Morocco,76,76,6500000,40000,ST,-,Striker
+0,A. Onana,26,Cameroon,82,85,30500000,59000,GK,-,Goalkeeper
+1,D. Epassy,29,Cameroon,66,68,700000,3000,GK,-,Goalkeeper
+2,B. Nna Noukeu,21,Cameroon,57,68,325000,2000,GK,-,Goalkeeper
+3,J. Matip,30,Cameroon,84,84,34500000,140000,CB,-,Defender
+4,M. Ngadeu,31,Cameroon,75,75,3800000,20000,CB,-,Defender
+5,M. Ngadeu,31,Cameroon,75,75,3800000,20000,CB,-,Defender
+6,J. Castelletto,27,Cameroon,74,75,4200000,20000,CB,-,Defender
+7,Nouhou,25,Cameroon,70,71,1700000,5000,LB,-,Defender
+8,D. Yongwa,21,Cameroon,67,77,2200000,4000,LB,-,Defender
+9,A. Nyom,34,Cameroon,74,74,1500000,11000,RB,-,Defender
+10,S. Boey,21,Cameroon,71,76,2700000,23000,RWB,-,Defender
+11,A. Zambo Anguissa,26,Cameroon,81,83,28500000,58000,CDM,-,Midfielder
+12,Y. Eteki,24,Cameroon,74,80,6000000,5000,CDM,-,Midfielder
+13,J. Onana,22,Cameroon,73,80,6000000,21000,CDM,-,Midfielder
+14,J. Léa Siliki,26,Cameroon,70,73,2100000,5000,CM,-,Midfielder
+15,K. Toko Ekambi,29,Cameroon,78,78,14000000,62000,LM,-,Midfielder
+16,B. Mbeumo,22,Cameroon,75,81,9000000,40000,CAM,-,Midfielder
+17,D. Lamkel Zé,25,Cameroon,73,76,4099999,13000,RM,-,Midfielder
+18,M. Hongla,24,Cameroon,72,78,3700000,16000,CAM,-,Midfielder
+19,C. Njie,28,Cameroon,72,72,2400000,15000,LW,-,Striker
+20,Y. Neyou,25,Cameroon,71,76,2500000,6000,CAM,-,Midfielder
+21,K. Soni,24,Cameroon,65,72,1400000,3000,LM,-,Midfielder
+22,P. Soko,24,Cameroon,65,71,1100000,2000,RM,-,Midfielder
+23,L. Tawamba,32,Cameroon,75,75,4600000,26000,ST,-,Striker
+24,V. Aboubakar,30,Cameroon,75,75,5500000,38000,ST,-,Striker
+25,L. Tawamba,32,Cameroon,75,75,4600000,26000,ST,-,Striker
+0,M. Borjan,34,Canada,77,77,0,0,GK,GK,Goalkeeper
+1,T. Zoreaux,28,Canada,76,77,6000000,35000,GK,-,Goalkeeper
+2,M. Crépeau,28,Canada,74,77,3900000,6000,GK,SUB,Goalkeeper
+3,K. Miller,25,Canada,71,75,2300000,5000,CB,CB,Defender
+4,S. Kennedy,25,Canada,69,73,1700000,6000,CB,SUB,Defender
+5,Steven Vitória,35,Canada,69,69,375000,3000,CB,CB,Defender
+6,D. Henry,29,Canada,67,67,850000,3000,CB,SUB,Defender
+7,S. Adekugbe,27,Canada,70,71,1700000,8000,LB,LB,Defender
+8,C. Gutiérrez,25,Canada,67,70,1200000,3000,LWB,-,Defender
+9,R. Laryea,27,Canada,72,72,2300000,36000,RWB,RB,Defender
+10,M. Godinho,25,Canada,63,65,550000,2000,RWB,-,Defender
+11,Stephen Eustáquio,25,Canada,76,82,10500000,12000,CDM,CDM,Midfielder
+12,J. Osorio,30,Canada,74,74,4000000,8000,CM,SUB,Midfielder
+13,A. Hutchinson,39,Canada,72,72,750000,22000,CDM,CDM,Midfielder
+14,M. Kaye,27,Canada,71,72,2100000,6000,CM,SUB,Midfielder
+15,A. Davies,21,Canada,84,89,60500000,59000,LM,LW,Midfielder
+16,T. Buchanan,23,Canada,72,78,3700000,15000,RM,RW,Midfielder
+17,A. Johnston,23,Canada,70,74,2300000,5000,RM,SUB,Midfielder
+18,J. Hoilett,32,Canada,70,70,1300000,12000,RW,CM,Striker
+19,L. Millar,22,Canada,67,76,2300000,6000,RM,SUB,Midfielder
+20,D. Wotherspoon,32,Canada,67,67,800000,3000,CAM,-,Midfielder
+21,Z. Brault-Guillard,23,Canada,66,72,1400000,2000,RM,-,Midfielder
+22,M. Choinière,23,Canada,66,70,1200000,2000,RM,-,Midfielder
+23,J. David,22,Canada,79,85,28500000,37000,ST,ST,Striker
+24,C. Larin,27,Canada,74,75,4900000,24000,ST,SUB,Striker
+25,I. Ugbo,23,Canada,72,78,3700000,13000,ST,SUB,Striker
+0,K. Schmeichel,35,Denmark,83,83,4000000,31000,GK,GK,Goalkeeper
+1,D. Iversen,24,Denmark,73,78,3700000,33000,GK,-,Goalkeeper
+2,J. Hansen,37,Denmark,72,72,250000,6000,GK,-,Goalkeeper
+3,A. Christensen,26,Denmark,82,86,37500000,145000,CB,CB,Defender
+4,S. Kjær,33,Denmark,82,82,14500000,73000,CB,CB,Defender
+5,E. Sviatchenko,30,Denmark,76,76,6000000,25000,CB,-,Defender
+6,V. Nelsson,23,Denmark,75,81,8000000,42000,CB,-,Defender
+7,C. Højer,27,Denmark,73,74,3200000,850,LB,-,Defender
+8,K. Pedersen,27,Denmark,71,71,1800000,16000,LB,-,Defender
+9,A. Bah,24,Denmark,78,82,18500000,12000,RB,SUB,Defender
+10,R. Kristensen,24,Denmark,77,82,15000000,31000,RWB,SUB,Defender
+11,P. Højbjerg,26,Denmark,83,85,40500000,110000,CDM,CM,Midfielder
+12,C. Eriksen,30,Denmark,82,82,29000000,135000,CM,LW,Midfielder
+13,T. Delaney,30,Denmark,81,81,21500000,33000,CDM,CM,Midfielder
+14,D. Wass,33,Denmark,79,79,11000000,20000,CM,RWB,Midfielder
+15,A. Skov Olsen,22,Denmark,76,83,15000000,21000,LM,RW,Midfielder
+16,M. Damsgaard,21,Denmark,76,85,17000000,33000,CAM,SUB,Midfielder
+17,J. Lindstrøm,22,Denmark,75,84,12500000,22000,CAM,-,Midfielder
+18,J. Lindstrøm,22,Denmark,75,84,12500000,22000,CAM,-,Midfielder
+19,R. Skov,26,Denmark,74,75,5000000,31000,RW,-,Striker
+20,P. Zinckernagel,27,Denmark,74,74,4500000,15000,CAM,-,Midfielder
+21,A. Dreyer,24,Denmark,74,80,6500000,23000,CAM,-,Midfielder
+22,N. Vallys,25,Denmark,73,74,3600000,13000,LM,-,Midfielder
+23,Y. Poulsen,28,Denmark,77,77,11000000,53000,ST,-,Striker
+24,K. Dolberg,24,Denmark,77,81,15500000,39000,ST,ST,Striker
+25,M. Braithwaite,31,Denmark,76,76,6500000,21000,ST,SUB,Striker
+0,G. Ochoa,36,Mexico,80,80,0,0,GK,GK,Goalkeeper
+1,A. Talavera,39,Mexico,79,79,0,0,GK,SUB,Goalkeeper
+2,R. Cota,34,Mexico,76,76,0,0,GK,SUB,Goalkeeper
+3,E. Álvarez,24,Mexico,80,84,27500000,17000,CB,CDM,Defender
+4,C. Montes,25,Mexico,77,82,0,0,CB,CB,Defender
+5,H. Moreno,34,Mexico,76,76,0,0,CB,CB,Defender
+6,J. Vásquez,23,Mexico,72,81,4900000,3000,CB,-,Defender
+7,J. Gallardo,27,Mexico,75,75,0,0,LB,LB,Defender
+8,J. Gallardo,27,Mexico,75,75,0,0,LB,LB,Defender
+9,J. Sánchez,24,Mexico,76,82,11000000,13000,RB,RB,Defender
+10,J. Araujo,20,Mexico,70,80,3300000,3000,RB,-,Defender
+11,H. Herrera,32,Mexico,80,80,16500000,12000,CM,CM,Midfielder
+12,A. Guardado,35,Mexico,77,77,3000000,16000,CM,CM,Midfielder
+13,É. Gutiérrez,27,Mexico,76,77,8500000,18000,CM,SUB,Midfielder
+14,L. Romo,27,Mexico,76,77,0,0,CM,SUB,Midfielder
+15,J. Corona,29,Mexico,81,81,25500000,40000,RW,RW,Striker
+16,C. Vela,33,Mexico,81,81,16000000,14000,RW,-,Striker
+17,H. Lozano,26,Mexico,81,81,28000000,69000,RW,LW,Striker
+18,A. Vega,24,Mexico,77,83,0,0,CAM,SUB,Midfielder
+19,C. Rodríguez,25,Mexico,76,81,0,0,CAM,SUB,Midfielder
+20,O. Pineda,26,Mexico,76,77,9000000,1000,LW,SUB,Striker
+21,U. Antuna,24,Mexico,75,77,0,0,RM,SUB,Midfielder
+22,U. Antuna,24,Mexico,75,77,0,0,RM,SUB,Midfielder
+23,D. Rojas,26,Mexico,82,83,36500000,74000,ST,-,Striker
+24,R. Jiménez,31,Mexico,82,82,25500000,110000,ST,ST,Striker
+25,J. Hernández,34,Mexico,79,79,8500000,13000,ST,-,Striker
+0,M. Turner,28,United States,77,80,9500000,56000,GK,SUB,Goalkeeper
+1,Z. Steffen,27,United States,77,79,9500000,73000,GK,GK,Goalkeeper
+2,S. Johnson,33,United States,73,73,1000000,6000,GK,SUB,Goalkeeper
+3,J. Brooks,29,United States,78,79,13000000,15000,CB,-,Defender
+4,W. Zimmerman,29,United States,76,77,7000000,9000,CB,CB,Defender
+5,C. Carter-Vickers,24,United States,74,83,8500000,34000,CB,SUB,Defender
+6,C. Richards,22,United States,74,82,9000000,34000,CB,CB,Defender
+7,A. Robinson,24,United States,74,77,5500000,35000,LWB,LB,Defender
+8,D. Jones,25,United States,71,76,2600000,5000,LB,-,Defender
+9,R. Cannon,24,United States,74,80,6000000,11000,RWB,-,Defender
+10,S. Moore,25,United States,72,76,3000000,6000,RWB,-,Defender
+11,W. McKennie,23,United States,80,85,31500000,90000,CM,CM,Midfielder
+12,T. Adams,23,United States,76,80,10000000,29000,CDM,CDM,Midfielder
+13,C. Roldan,27,United States,75,75,6000000,9000,CM,SUB,Midfielder
+14,C. Roldan,27,United States,75,75,6000000,9000,CM,SUB,Midfielder
+15,C. Pulisic,23,United States,82,88,48000000,120000,RM,LW,Midfielder
+16,S. Dest,21,United States,77,85,22500000,71000,RM,SUB,Midfielder
+17,G. Reyna,19,United States,77,86,23000000,24000,CAM,SUB,Midfielder
+18,D. Mihailovic,23,United States,75,81,9000000,9000,CAM,-,Midfielder
+19,D. Mihailovic,23,United States,75,81,9000000,9000,CAM,-,Midfielder
+20,Y. Musah,19,United States,74,83,9000000,16000,CAM,CM,Midfielder
+21,A. Soñora,23,United States,74,80,6500000,12000,CAM,-,Midfielder
+22,T. Weah,22,United States,74,81,8500000,23000,CAM,RW,Midfielder
+23,J. Ferreira,21,United States,74,84,9500000,7000,CF,SUB,Striker
+24,J. Siebatcheu,26,United States,74,77,5500000,28000,ST,SUB,Striker
+25,D. Dike,22,United States,71,82,4200000,21000,ST,-,Striker
+0,A. Abedzadeh,29,Iran,72,73,1800000,6000,GK,-,Goalkeeper
+1,M. Hosseini,26,Iran,68,72,1500000,7000,CB,-,Defender
+2,V. Hakhamaneshi,31,Iran,61,61,220000,500,CB,-,Defender
+3,M. Mohammadi,28,Iran,72,72,2100000,900,LB,-,Defender
+4,E. Haji Safi,32,Iran,70,70,1100000,700,LB,-,Defender
+5,S. Moharrami,26,Iran,72,74,2700000,700,RB,-,Defender
+6,S. Beitashour,35,Iran,66,66,275000,2000,RB,-,Defender
+7,A. Karimi,28,Iran,65,65,625000,5000,CDM,-,Midfielder
+8,A. Gholizadeh,26,Iran,73,74,3600000,13000,RM,-,Midfielder
+9,S. Ghoddos,28,Iran,68,68,1200000,18000,CAM,-,Midfielder
+10,M. Taremi,29,Iran,81,81,25500000,22000,ST,-,Striker
+11,S. Azmoun,27,Iran,80,81,24500000,63000,ST,-,Striker
+12,A. Jahanbakhsh,28,Iran,72,72,2400000,10000,CF,-,Striker
+0,D. Ward,29,Wales,75,75,3800000,49000,GK,GK,Goalkeeper
+1,W. Hennessey,35,Wales,74,74,475000,23000,GK,SUB,Goalkeeper
+2,A. Davies,29,Wales,70,70,1100000,13000,GK,SUB,Goalkeeper
+3,B. Davies,29,Wales,79,79,14500000,85000,CB,CB,Defender
+4,J. Rodon,24,Wales,72,80,4900000,40000,CB,CB,Defender
+5,C. Mepham,24,Wales,71,74,2300000,22000,CB,SUB,Defender
+6,B. Cabango,22,Wales,70,80,3300000,13000,CB,-,Defender
+7,P. Dummett,30,Wales,73,73,2600000,52000,LB,-,Defender
+8,M. Fox,28,Wales,69,69,1300000,13000,LB,-,Defender
+9,C. Roberts,26,Wales,75,76,6000000,36000,RB,RWB,Defender
+10,N. Williams,21,Wales,71,82,4000000,23000,RWB,LWB,Defender
+11,A. Ramsey,31,Wales,76,76,6000000,38000,CM,CM,Midfielder
+12,E. Ampadu,21,Wales,73,80,6000000,43000,CDM,CB,Midfielder
+13,J. Allen,32,Wales,71,71,1200000,17000,CDM,CDM,Midfielder
+14,W. Vaulks,28,Wales,70,70,1400000,8000,CDM,-,Midfielder
+15,C. Hughes,26,Wales,78,78,15500000,50000,LM,-,Midfielder
+16,D. James,24,Wales,77,82,16000000,35000,RM,ST,Midfielder
+17,H. Wilson,25,Wales,76,79,10000000,49000,CAM,CM,Midfielder
+18,D. Brooks,24,Wales,76,79,10000000,42000,CAM,-,Midfielder
+19,B. Johnson,21,Wales,75,85,12500000,43000,RM,SUB,Midfielder
+20,R. Matondo,21,Wales,73,82,7000000,33000,RM,SUB,Midfielder
+21,T. Lawrence,28,Wales,73,73,3100000,44000,LW,-,Striker
+22,S. Thomas,23,Wales,71,76,2800000,13000,RM,SUB,Midfielder
+23,G. Bale,32,Wales,81,81,20500000,14000,ST,ST,Striker
+24,K. Moore,29,Wales,73,73,3000000,40000,ST,SUB,Striker
+25,T. Roberts,23,Wales,70,75,2400000,18000,ST,-,Striker
+0,E. Kawashima,39,Japan,72,72,250000,8000,GK,-,Goalkeeper
+1,D. Schmidt,30,Japan,69,69,925000,6000,GK,-,Goalkeeper
+2,K. Nakamura,27,Japan,68,72,1300000,3000,GK,-,Goalkeeper
+3,T. Tomiyasu,23,Japan,79,85,26000000,65000,CB,-,Defender
+4,K. Itakura,25,Japan,75,80,7500000,22000,CB,-,Defender
+5,K. Itakura,25,Japan,75,80,7500000,22000,CB,-,Defender
+6,M. Hasebe,38,Japan,74,74,750000,16000,CB,-,Defender
+7,R. Ogawa,25,Japan,70,72,1800000,6000,LWB,-,Defender
+8,K. Suzuki,24,Japan,53,58,130000,1000,LWB,-,Defender
+9,Y. Sugawara,22,Japan,74,78,5500000,8000,RWB,-,Defender
+10,S. Muroya,28,Japan,69,69,1300000,13000,RB,-,Defender
+11,W. Endo,29,Japan,78,78,13500000,29000,CM,-,Midfielder
+12,H. Morita,27,Japan,76,77,8500000,14000,CM,-,Midfielder
+13,R. Morioka,31,Japan,74,74,3500000,14000,CM,-,Midfielder
+14,R. Hatate,24,Japan,73,80,6000000,34000,CM,-,Midfielder
+15,D. Kamada,25,Japan,80,82,26500000,34000,CAM,-,Midfielder
+16,J. Ito,29,Japan,78,78,14000000,30000,RW,-,Striker
+17,R. Doan,24,Japan,77,83,16500000,25000,CAM,-,Midfielder
+18,S. Nakajima,27,Japan,76,76,8000000,26000,RW,-,Striker
+19,M. Okugawa,26,Japan,75,77,7000000,18000,CAM,-,Midfielder
+20,T. Minamino,27,Japan,75,76,6500000,45000,CAM,-,Midfielder
+21,K. Mitoma,25,Japan,74,77,5500000,47000,CAM,-,Midfielder
+22,K. Fujimoto,23,Japan,74,83,9500000,10000,CAM,-,Midfielder
+23,K. Furuhashi,27,Japan,75,75,6000000,50000,ST,-,Striker
+24,D. Maeda,24,Japan,72,77,3500000,33000,ST,-,Striker
+25,A. Onaiwu,26,Japan,71,74,2500000,14000,ST,-,Striker
+0,P. Ortíz,32,Ecuador,72,72,1200000,550,GK,-,Goalkeeper
+1,M. Ramírez,21,Ecuador,70,81,3100000,500,GK,-,Goalkeeper
+2,J. Pinos,32,Ecuador,68,68,600000,500,GK,-,Goalkeeper
+3,P. Hincapié,20,Ecuador,78,85,26500000,33000,CB,-,Defender
+4,L. Segovia,24,Ecuador,69,75,2000000,500,CB,-,Defender
+5,X. Arreaga,27,Ecuador,69,71,1500000,4000,CB,-,Defender
+6,F. Guerra,30,Ecuador,69,69,1100000,500,CB,-,Defender
+7,P. Estupiñán,24,Ecuador,79,83,23500000,55000,LB,-,Defender
+8,D. Palacios,22,Ecuador,71,79,4000000,5000,LWB,-,Defender
+9,Á. Preciado,24,Ecuador,69,75,2100000,6000,RWB,-,Defender
+10,R. Caicedo,32,Ecuador,68,68,825000,500,RB,-,Defender
+11,J. Cifuentes,23,Ecuador,73,80,5500000,6000,CDM,-,Midfielder
+12,C. Gruezo,27,Ecuador,72,75,2700000,18000,CDM,-,Midfielder
+13,M. Caicedo,20,Ecuador,70,82,3800000,23000,CDM,-,Midfielder
+14,F. Gaibor,30,Ecuador,70,70,1500000,650,CM,-,Midfielder
+15,G. Plata,21,Ecuador,77,86,23500000,18000,CAM,-,Midfielder
+16,J. Cazares,30,Ecuador,74,74,4099999,14000,CAM,-,Midfielder
+17,A. Alvarado,23,Ecuador,72,80,5000000,700,CAM,-,Midfielder
+18,D. Cabezas,29,Ecuador,70,70,1600000,700,CAM,-,Midfielder
+19,A. Rodríguez,22,Ecuador,70,76,2600000,550,RM,-,Midfielder
+20,J. Ortiz,26,Ecuador,70,72,2000000,650,CAM,-,Midfielder
+21,A. Julio,26,Ecuador,69,70,1600000,4000,LM,-,Midfielder
+22,A. Preciado,25,Ecuador,69,72,1800000,600,RM,-,Midfielder
+23,F. Caicedo,33,Ecuador,75,75,3600000,15000,ST,-,Striker
+24,E. Valencia,32,Ecuador,75,75,4600000,58000,ST,-,Striker
+25,M. Bolaños,32,Ecuador,71,71,1500000,10000,ST,-,Striker
+0,E. Damergy,19,Tunisia,60,73,500000,2000,GK,-,Goalkeeper
+1,D. Bronn,27,Tunisia,71,73,2000000,15000,CB,-,Defender
+2,M. Talbi,24,Tunisia,67,72,1400000,5000,CB,-,Defender
+3,O. Haddadi,30,Tunisia,67,67,825000,4000,CB,-,Defender
+4,S. Ben Youssef,33,Tunisia,66,66,400000,2000,CB,-,Defender
+5,A. Abdi,28,Tunisia,71,71,1700000,6000,LWB,-,Defender
+6,R. Kaib,25,Tunisia,67,71,1300000,3000,LWB,-,Defender
+7,M. Dräger,26,Tunisia,70,73,1900000,27000,RB,-,Defender
+8,E. Skhiri,27,Tunisia,79,80,18000000,31000,CDM,-,Midfielder
+9,A. Laïdouni,25,Tunisia,72,78,3300000,700,CDM,-,Midfielder
+10,A. Slimane,21,Tunisia,67,73,1600000,4000,CM,-,Midfielder
+11,M. Mahmoud,22,Tunisia,60,67,475000,2000,CDM,-,Midfielder
+12,N. Sliti,29,Tunisia,76,76,7500000,30000,LM,-,Midfielder
+13,S. Bguir,28,Tunisia,73,73,3100000,12000,CAM,-,Midfielder
+14,J. Dudziak,26,Tunisia,72,73,2800000,9000,CAM,-,Midfielder
+15,S. Khaoui,27,Tunisia,70,71,1800000,11000,CAM,-,Midfielder
+16,M. Ben Ouanes,27,Tunisia,68,68,1300000,6000,RM,-,Midfielder
+17,A. Layouni,29,Tunisia,66,66,850000,2000,RW,-,Striker
+18,I. Jebali,30,Tunisia,66,66,850000,5000,CAM,-,Midfielder
+19,M. Zemzemi,22,Tunisia,65,72,1500000,2000,CAM,-,Midfielder
+20,Y. Touzghar,35,Tunisia,71,71,800000,10000,ST,-,Striker
+21,A. Bettaieb,25,Tunisia,67,72,1500000,6000,ST,-,Striker
+22,S. Chabbi,28,Tunisia,66,66,875000,4000,ST,-,Striker
+0,M. Ryan,30,Australia,78,78,9500000,20000,GK,GK,Goalkeeper
+1,M. Langerak,33,Australia,71,71,0,0,GK,SUB,Goalkeeper
+2,D. Vukovic,37,Australia,70,70,180000,1000,GK,-,Goalkeeper
+3,H. Souttar,23,Australia,72,77,3200000,16000,CB,-,Defender
+4,T. Sainsbury,30,Australia,72,72,0,0,CB,CB,Defender
+5,M. Degenek,28,Australia,72,73,2200000,6000,CB,CB,Defender
+6,H. Delbridge,30,Australia,70,70,1300000,3000,CB,-,Defender
+7,A. Behich,31,Australia,70,70,1200000,5000,LB,LB,Defender
+8,C. Elder,27,Australia,68,68,1200000,7000,LB,-,Defender
+9,J. Risdon,29,Australia,72,72,2100000,3000,RB,-,Defender
+10,R. Grant,31,Australia,69,69,1000000,5000,RB,-,Defender
+11,A. Mooy,31,Australia,76,76,6000000,49000,CM,CDM,Midfielder
+12,J. Holland,33,Australia,70,70,800000,10000,CDM,-,Midfielder
+13,C. Devlin,24,Australia,70,77,3200000,4000,CDM,SUB,Midfielder
+14,K. Dougall,29,Australia,70,70,1400000,8000,CDM,-,Midfielder
+15,C. Goodwin,30,Australia,75,75,5500000,7000,LM,-,Midfielder
+16,M. Boyle,29,Australia,72,72,2300000,7000,RM,CAM,Midfielder
+17,A. Hrustić,25,Australia,72,75,3100000,18000,CAM,CAM,Midfielder
+18,M. Leckie,31,Australia,71,71,1600000,9000,LM,CAM,Midfielder
+19,R. McGree,23,Australia,71,78,3700000,16000,LM,SUB,Midfielder
+20,C. Ikonomidis,27,Australia,70,70,1700000,6000,RM,-,Midfielder
+21,A. Mabil,26,Australia,70,70,1700000,16000,LM,SUB,Midfielder
+22,A. Nabbout,29,Australia,69,69,1400000,7000,RM,-,Midfielder
+23,B. Fornaroli,34,Australia,71,71,900000,5000,ST,-,Striker
+24,N. D'Agostino,24,Australia,68,71,1700000,4000,ST,-,Striker
+25,J. Cummings,26,Australia,68,69,1400000,2000,ST,SUB,Striker
+0,A. Al Mayoof,35,Saudi Arabia,71,71,210000,11000,GK,-,Goalkeeper
+1,M. Al Owais,30,Saudi Arabia,69,69,925000,13000,GK,-,Goalkeeper
+2,M. Malaeka,36,Saudi Arabia,66,66,90000,4000,GK,-,Goalkeeper
+3,A. Al Amri,25,Saudi Arabia,71,76,2500000,20000,CB,-,Defender
+4,A. Sharahili,28,Saudi Arabia,69,69,1200000,16000,CB,-,Defender
+5,S. Al Khaibari,32,Saudi Arabia,67,67,650000,8000,CB,-,Defender
+6,A. Al Bulayhi,32,Saudi Arabia,67,67,650000,11000,CB,-,Defender
+7,Y. Al Shahrani,30,Saudi Arabia,73,73,2600000,27000,LB,-,Defender
+8,H. Al Shamrani,25,Saudi Arabia,68,71,1500000,13000,LB,-,Defender
+9,S. Al Ghannam,28,Saudi Arabia,72,72,2100000,25000,RB,-,Defender
+10,S. Abdulhamid,22,Saudi Arabia,71,77,2800000,18000,RB,-,Defender
+11,A. Al Malki,27,Saudi Arabia,69,70,1400000,16000,CDM,-,Midfielder
+12,A. Ateef,29,Saudi Arabia,68,68,1000000,14000,CDM,-,Midfielder
+13,A. Al Khaibari,25,Saudi Arabia,67,72,1400000,11000,CDM,-,Midfielder
+14,A. Al Hassan,25,Saudi Arabia,66,71,1100000,9000,CDM,-,Midfielder
+15,S. Al Dawsari,30,Saudi Arabia,77,77,10000000,42000,LW,-,Striker
+16,N. Al Abed,32,Saudi Arabia,70,70,1300000,18000,CAM,-,Midfielder
+17,S. Al Najai,25,Saudi Arabia,69,72,1800000,16000,CAM,-,Midfielder
+18,M. Al Kuwaykibi,27,Saudi Arabia,69,69,1500000,14000,RM,-,Midfielder
+19,H. Bahebri,29,Saudi Arabia,69,69,1400000,17000,LW,-,Striker
+20,A. Al Bishi,28,Saudi Arabia,69,69,1400000,18000,RM,-,Midfielder
+21,S. Al Amri,28,Saudi Arabia,68,68,1200000,6000,LM,-,Midfielder
+22,A. Ghareeb,25,Saudi Arabia,68,70,1500000,14000,RM,-,Midfielder
+23,S. Al Shehri,28,Saudi Arabia,68,68,1200000,16000,ST,-,Striker
+24,F. Al Birekan,22,Saudi Arabia,65,76,1600000,7000,ST,-,Striker
+25,A. Abdu,25,Saudi Arabia,64,67,775000,8000,ST,-,Striker
+0,S. Al Sheeb,32,Qatar,68,68,0,0,GK,GK,Goalkeeper
+1,Y. Hassan,26,Qatar,65,68,0,0,GK,SUB,Goalkeeper
+2,M. Barsham,24,Qatar,65,71,0,0,GK,SUB,Goalkeeper
+3,B. Khoukhi,31,Qatar,71,71,0,0,CB,CB,Defender
+4,B. Al Rawi,24,Qatar,68,75,0,0,CB,CB,Defender
+5,M. Waad,22,Qatar,65,74,0,0,CB,SUB,Defender
+6,A. Ali,30,Qatar,63,63,0,0,CB,-,Defender
+7,A. Hassan,28,Qatar,70,70,0,0,LWB,LWB,Defender
+8,H. Ahmed,22,Qatar,68,75,0,0,LWB,SUB,Defender
+9,Pedro Miguel,31,Qatar,69,69,0,0,RWB,RWB,Defender
+10,I. Mohammad,32,Qatar,67,67,0,0,RWB,SUB,Defender
+11,K. Boudiaf,31,Qatar,72,72,0,0,CM,CM,Midfielder
+12,A. Hatem,31,Qatar,71,71,0,0,CM,CM,Midfielder
+13,A. Madibo,25,Qatar,66,70,0,0,CDM,SUB,Midfielder
+14,T. Salman,24,Qatar,66,74,0,0,CDM,CB,Midfielder
+15,A. Afif,25,Qatar,76,78,0,0,RM,LW,Midfielder
+16,H. Al Haydos,31,Qatar,72,72,0,0,RW,RW,Striker
+17,A. Asad,29,Qatar,69,69,0,0,LW,SUB,Striker
+18,M. Hassan,30,Qatar,65,65,0,0,RW,-,Striker
+19,A. Al Ahrak,25,Qatar,64,68,0,0,CAM,SUB,Midfielder
+20,K. Muneer,24,Qatar,63,67,0,0,RM,-,Midfielder
+21,Y. Abdurisag,22,Qatar,62,69,0,0,RW,-,Striker
+22,A. Moustafa,25,Qatar,61,63,0,0,RM,SUB,Midfielder
+23,A. Ali,25,Qatar,72,75,0,0,ST,ST,Striker
+24,M. Muntari,28,Qatar,67,67,0,0,ST,SUB,Striker
+25,A. Alaaeldin,29,Qatar,65,65,0,0,ST,-,Striker
