@@ -1,0 +1,55 @@
+![fifaworldcup](https://user-images.githubusercontent.com/111923298/206928761-378f136c-d3a8-47d8-a093-c9d761fa65a7.jpeg)
+
+
+# Copa Mundial de la FIFA 2022
+
+El objetivo de este proyecto es predecir la Copa Mundial de la FIFA 2020 que se celebrará en Qatar. Para este análisis, obtendremos información de dos sitios principales.
+- Conjunto de datos del videojuego FIFA 23, de donde obtuvimos las estadísticas de los jugadores.
+- Clasificación de naciones de la FIFA y partidos internacionales históricos.
+
+## Hay 4 scripts de Python presentes en este repositorio, como se muestra a continuación:
+
+### Preparación de datos de FIFA 23
+
+Tiene como objetivo determinar el potencial de los equipos clasificados para la Copa del Mundo de QATAR 2022 en base a las estadísticas de jugadores de FIFA 22.
+
+### EDA y conjunto de entrenamiento
+
+Determina el potencial de los equipos clasificados para la Copa del Mundo de QATAR 2022 con base en el Ranking FIFA y también hace algunos análisis relevantes con la información.
+
+### Creación del modelo Oficial
+
+Este cuaderno consiste en recopilar todos los datos creados a partir de los 2 scripts siguientes:
+
+- Preparación de datos de FIFA 23
+- EDA y conjunto de entrenamiento
+
+Además, aquí procederemos con la creación del modelo de aprendizaje automático que usaremos en nuestras predicciones de la Copa Mundial de la FIFA. Optamos por un modelo RandomForest con ajuste de hiperparámetros y exportamos la información con una canalización para realizar inferencias sencillas.
+
+![image](https://user-images.githubusercontent.com/111923298/206928587-5338e762-e85b-4ff0-949d-2ea54367fc14.png
+
+Tenga en cuenta que para este análisis, solo consideramos dos resultados: ganar o perder. Más detalles presentes en los cuadernos.
+
+### Predicciones
+
+Tiene como objetivo predecir los resultados de la Fase de Grupos y Eliminatorias de FIFA Qatar 2022.
+
+Resultado final:
+
+![image](https://user-images.githubusercontent.com/111923298/206928729-1bb72963-389c-4c67-8096-180d5b6d1558.png)
+
+
+# conjuntos de datos
+
+- Fifa 23 Players Data: los conjuntos de datos proporcionados incluyen los datos de los jugadores de FIFA 23.
+- fifa_rankings: toma la clasificación mundial de la FIFA de la Clasificación mundial masculina oficial de la FIFA.
+- international_matches: proporciona una descripción completa de todos los partidos de fútbol internacionales jugados desde los años 90. Además de eso, la fuerza de cada equipo se proporciona mediante la incorporación de clasificaciones reales de FIFA, así como las fortalezas de los jugadores basadas en el videojuego EA Sport FIFA.
+- Group_stage y Qatar2022-Teams: tiene información sobre los partidos de la Copa Mundial de la FIFA que se disputarán.
+- team_scores - archivo creado en el archivo "EDA & Training set". Proporciona estadísticas de todos los equipos presentes en la copa del mundo.
+- Squadstats11 y Squadstats26: archivos creados en "Preparación de datos de FIFA 23". Incluye todos los jugadores que deberían haber sido convocados para la Copa del Mundo, para cada equipo.
+- training_set - archivo creado en "EDA & Training set". Tiene la información de entrenamiento para que el modelo ML se use en "Creación de modelo oficial"
+
+# Recursos
+
+- Versión de Python: 3.7
+- Paquetes principales: Pandas, Numpy, Sklearn, Tensorflor, MatplotLib y Seaborn.
