@@ -50,6 +50,7 @@ Final Outcome:
 - team_scores - file created on "EDA & Training set" file. It provides stats for all teams present on world cup.
 - squadstats11 & squadstats26 - files created on "Fifa 23 Data Preparation". It includes all the players that should have been called for the World Cup, for each team.
 - training_set - file created on "EDA & Training set". It has the training information for the ML model to be used on "Model creation Official"
+- wcplayers - contains all players present on World Cup. It will be used on the Power BI Report
 
 # Resources
 
