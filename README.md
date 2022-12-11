@@ -26,6 +26,8 @@ This notebook consists of gathering all the data created from the 2 following sc
 
 Also, here we will proceed with the creation of the Machine Learning Model we will use on our FIFA World Cup Predictions. We opted for a RandomForest model with hyperparameter tuning and exported the information with a pipeline to perform easy inferences.
 
+Accuracy of model is approximately 72 %
+
 ![image](https://user-images.githubusercontent.com/111923298/206928587-5338e762-e85b-4ff0-949d-2ea54367fc14.png)
 
 Please consider that for this analysis, we only considered two results: Win or Lose. Further details present on notebooks.
