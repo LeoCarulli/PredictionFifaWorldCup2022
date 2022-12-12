@@ -64,5 +64,6 @@ Final Outcome:
 
 - Python Version: 3.7
 - Main Packages: Pandas, Numpy, Sklearn, Tensorflor, MatplotLib and Seaborn.
+- Power BI
 
 
