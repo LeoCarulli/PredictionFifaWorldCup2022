@@ -21,7 +21,7 @@ I´ve prepared a Power BI interactive file for this EDA, which you can explore a
 
 Some initial looks below!
 
-![1](https://user-images.githubusercontent.com/111923298/206953294-77cd0ad1-a5e9-4192-aae6-045534334097.JPG)
+![1](https://user-images.githubusercontent.com/111923298/206953677-26fb759f-67aa-47f3-93a3-3e6ced95c237.JPG)
 ![2](https://user-images.githubusercontent.com/111923298/206953312-6080fbd7-62d2-49c5-aefd-7b003e2d07b9.JPG)
 ![3](https://user-images.githubusercontent.com/111923298/206953394-4b13846a-e254-456d-b4e8-e39bf677bab3.JPG)
 
