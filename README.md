@@ -3,7 +3,7 @@
 
 # FIFA World Cup 2022
 
-The aim of this project is to predict the FIFA 2020 World Cup held in Qatar. For this analysis, we will grab information from two main sites.
+The aim of this project is to predict the FIFA 2022 World Cup held in Qatar. For this analysis, we will grab information from two main sites.
 - FIFA 23 Videogame dataset, from where we obtained player statistics.
 - FIFA Nations ranking and historical international matches.
 
@@ -16,6 +16,14 @@ Aims to determine the potential of the teams qualified for the QATAR 2022 World 
 ### EDA & Training set
 
 Determines the potential of the teams qualified for the QATAR 2022 World Cup based on FIFA Ranking and also does some relevant analysis with the information.
+
+I´ve prepared a Power BI interactive file for this EDA, which you can explore and use. It´s present on the "Power BI" folder present on my repository.
+
+Some initial looks below!
+
+![1](https://user-images.githubusercontent.com/111923298/206953294-77cd0ad1-a5e9-4192-aae6-045534334097.JPG)
+![2](https://user-images.githubusercontent.com/111923298/206953312-6080fbd7-62d2-49c5-aefd-7b003e2d07b9.JPG)
+![3](https://user-images.githubusercontent.com/111923298/206953394-4b13846a-e254-456d-b4e8-e39bf677bab3.JPG)
 
 ### Model creation Official
 
@@ -56,3 +64,5 @@ Final Outcome:
 
 - Python Version: 3.7
 - Main Packages: Pandas, Numpy, Sklearn, Tensorflor, MatplotLib and Seaborn.
+
+
