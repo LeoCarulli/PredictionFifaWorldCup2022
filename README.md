@@ -11,7 +11,7 @@ The aim of this project is to predict the FIFA 2022 World Cup held in Qatar. For
 
 ### Fifa 23 Data Preparation
 
-Aims to determine the potential of the teams qualified for the QATAR 2022 World Cup based on the FIFA 22 player statistics.
+Aims to determine the potential of the teams qualified for the QATAR 2022 World Cup based on the FIFA 23 player statistics.
 
 ### EDA & Training set
 
